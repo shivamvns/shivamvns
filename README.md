@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Srivastava</h1>
-<h3 align="center">A passionate python developer from india</h3>
+<h3 align="center">A passionate React developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamvns&label=Profile%20views&color=0e75b6&style=flat" alt="shivamvns" /> </p>
 
