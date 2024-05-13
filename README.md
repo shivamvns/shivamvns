@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamvns](https://github.com/shivamvns)
 
-- 💬 Ask me about **python,django,flask,html,css,javascript,mysql & mongodb**
+- 💬 Ask me about **Java,Selenium,RestAPI,Postman,RestAssured,TestNG,Cucumber & "All types of testing methodology and tools" **
 
 - 📫 How to reach me **shivamsrivastava033@gmail.com**
 
